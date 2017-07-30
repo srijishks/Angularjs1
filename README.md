@@ -6,7 +6,7 @@ This project is generated with yo angular generator version 0.16.0.
 
 ## Install
 
-Running `npm install` will run the unit tests with karma.
+`npm install` 
 
 Run `grunt` for building and `grunt serve` for preview.
 
